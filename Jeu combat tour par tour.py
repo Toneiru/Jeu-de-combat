@@ -10,11 +10,10 @@ chemin_ico_nouvelle_partie = os.path.join(chemin_script, 'icon_nouvelle_partie.i
 chemin_image_fond = os.path.join(chemin_script, 'image_fond.png')
 chemin_ico_combat = os.path.join(chemin_script, 'icon_combat.ico')
 chemin_sauvegarde = os.path.join(chemin_script, 'sauvegarde.csv')
-chemin_informaticien = os.path.join(chemin_script, 'informaticien.png')
-chemin_attention = os.path.join(chemin_script, 'attention.ico')
-chemin_iconphoto = os.path.join(chemin_script, 'pete_moi_le_cul.png')
-chemin_fond_ecran_1 = os.path.join(chemin_script, 'fe1.png')
-chemin_fond_ecran_2 = os.path.join(chemin_script, 'fe2.png')
+chemin_informaticien = os.path.join(chemin_script, 'image_informaticien.png')
+chemin_attention = os.path.join(chemin_script, 'image_attention.ico')
+chemin_iconphoto = os.path.join(chemin_script, 'image_epee.png')
+chemin_fond_ecran_2 = os.path.join(chemin_script, 'image_fond_ecran_sauvegarde.png')
 
 ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("mon_application")
 
